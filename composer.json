@@ -1,5 +1,5 @@
 {
-  "name": "bavix/laravel-clickhouse",
+  "name": "jiaoyang3/laravel-clickhouse",
   "description": "Eloquent model for ClickHouse",
   "type": "library",
   "license": "MIT",
@@ -10,7 +10,6 @@
   ],
   "require": {
     "php": ">=7.2",
-    "laravel/framework": "^6.0|^7.0|^8.0",
     "the-tinderbox/clickhouse-builder": "^4.0",
     "ext-json": "*"
   },
